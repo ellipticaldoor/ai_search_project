@@ -1,6 +1,6 @@
 # AI search project
 
-An artificial intelligence that collects the dark blue squares. Also the gui is an experiment for minimalistic and responsive interfaces.
+An artificial intelligence that collects the dark blue squares with is a minimalistic and responsive interface.
 
 ## Download
 
