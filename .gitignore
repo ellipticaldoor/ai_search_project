@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+*.pyc
+s/
+m/
+media/
+collectstatic/
+run/
+logs/
+__pycache__/
+todo.md
+.ftpconfig
+
