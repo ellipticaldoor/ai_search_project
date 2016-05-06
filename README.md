@@ -1,6 +1,6 @@
 # AI search project
 
-An artificial intelligence that collects the dark blue squares with is a minimalistic and responsive interface.
+An artificial intelligence app that collects the dark blue squares with a minimalistic and responsive interface.
 
 ## Download
 
